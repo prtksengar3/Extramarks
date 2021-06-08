@@ -20,7 +20,7 @@ class Bird extends Animal{
     }
 }
 
-public class q1{
+public class Solution{
 
    public static void main(String args[]){
 
